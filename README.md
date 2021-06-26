@@ -2,8 +2,6 @@
 
 This is the fist file in project.
 
-##Ipsum below
-
-ugfudjbcuscisdgsjbuhwevgvhsyvcuy
-wuyfgwuyfgwigfwijsbwfe
-hgfweufbejbfiwefuie
+#Index Page
+1. Home
+2. About
